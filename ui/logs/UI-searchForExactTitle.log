@@ -1,3 +1,7 @@
-[2025-01-10 10:01:58,396] [main] [com.cmccarthyirl.common.TestListener] ============= Starting test: searchForExactTitle =============
-[2025-01-10 10:01:58,405] [main] [com.cmccarthyirl.common.TestListener] ============= Skipped test: searchForExactTitle ==============
-[2025-01-10 10:01:58,407] [main] [com.cmccarthyirl.common.TestListener] ============= java.lang.NullPointerException: Cannot invoke "java.util.Properties.getProperty(String)" because "properties" is null ==============
+[2025-06-05 00:04:11,112] [main] [com.cmccarthyirl.common.TestListener] ============= Starting test: searchForExactTitle =============
+[2025-06-05 00:04:16,316] [main] [com.cmccarthyirl.ui.test.UITest] The user navigated to: https://automationbookstore.dev/
+[2025-06-05 00:04:16,425] [main] [com.cmccarthyirl.ui.page.SearchPage] The user cleared the search field
+[2025-06-05 00:04:16,520] [main] [com.cmccarthyirl.ui.page.SearchPage] The user searched for Agile Testing
+[2025-06-05 00:04:16,777] [main] [com.cmccarthyirl.ui.test.UITest] The search results contained: 1 book
+[2025-06-05 00:04:16,802] [main] [com.cmccarthyirl.ui.test.UITest] The book's title is: [Agile Testing]
+[2025-06-05 00:04:16,810] [main] [com.cmccarthyirl.common.TestListener] ============= Passed test: searchForExactTitle ==============
