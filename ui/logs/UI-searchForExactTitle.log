@@ -1,7 +1,7 @@
-[2025-06-05 00:04:11,112] [main] [com.cmccarthyirl.common.TestListener] ============= Starting test: searchForExactTitle =============
-[2025-06-05 00:04:16,316] [main] [com.cmccarthyirl.ui.test.UITest] The user navigated to: https://automationbookstore.dev/
-[2025-06-05 00:04:16,425] [main] [com.cmccarthyirl.ui.page.SearchPage] The user cleared the search field
-[2025-06-05 00:04:16,520] [main] [com.cmccarthyirl.ui.page.SearchPage] The user searched for Agile Testing
-[2025-06-05 00:04:16,777] [main] [com.cmccarthyirl.ui.test.UITest] The search results contained: 1 book
-[2025-06-05 00:04:16,802] [main] [com.cmccarthyirl.ui.test.UITest] The book's title is: [Agile Testing]
-[2025-06-05 00:04:16,810] [main] [com.cmccarthyirl.common.TestListener] ============= Passed test: searchForExactTitle ==============
+[2025-12-09 07:53:20,094] [main] [com.cmccarthyirl.common.TestListener] ============= Starting test: searchForExactTitle =============
+[2025-12-09 07:53:22,393] [main] [com.cmccarthyirl.ui.test.UITest] The user navigated to: https://automationbookstore.dev/
+[2025-12-09 07:53:22,491] [main] [com.cmccarthyirl.ui.page.SearchPage] The user cleared the search field
+[2025-12-09 07:53:22,551] [main] [com.cmccarthyirl.ui.page.SearchPage] The user searched for Agile Testing
+[2025-12-09 07:53:22,855] [main] [com.cmccarthyirl.ui.test.UITest] The search results contained: 1 book
+[2025-12-09 07:53:22,865] [main] [com.cmccarthyirl.ui.test.UITest] The book's title is: [Agile Testing]
+[2025-12-09 07:53:22,870] [main] [com.cmccarthyirl.common.TestListener] ============= Passed test: searchForExactTitle ==============
